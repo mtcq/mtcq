@@ -6,7 +6,7 @@ I use this space in GitHub mainly to host and share the computational code used 
 
 All my scientific papers are available at [arXiv](https://arxiv.org/a/quintino_m_1.html) and some statistics involving them can be found at my [Google Scholar](https://scholar.google.com/citations?user=9S-Jrs4AAAAJ&hl).
 
-You can find more information about me and my research at my personal website: [https://mtcq.github.io/](https://mtcq.github.io/).
+You can find more information about me and my research at my personal website: [https://mtcq.github.io](https://mtcq.github.io).
 
 
 <!--
