@@ -1,6 +1,8 @@
 ### Hallo! 👋
 
-I’m Marco Túlio Quintino, a researcher in quantum information who is currently based at [IQOQI Vienna](https://www.oeaw.ac.at/esq/home/esq-postdocs/postdoc-application/current-esq-postdocs/quintino-marco-tulio) and the University of Vienna at the group of [Časlav Brukner](https://www.quantumfoundations.org/people.html) with an [ESQ fellowship](https://www.oeaw.ac.at/esq/home/esq-postdocs/postdoc-application/current-esq-postdocs/quintino-marco-tulio). My main research interests are higher-order quantum operations, designing quantum circuits to transform quantum operations, quantum discrimination tasks, Bell nonlocality, and quantum foundations.
+I’m Marco Túlio Quintino, associate professor (maître de conférences) in computer science at [Sorbonne Université](https://sciences.sorbonne-universite.fr/), Paris, France. I'm a member of the [Quantum Information](https://www.lip6.fr/recherche/team_membres.php?acronyme=QI) team at [LIP6](https://www.lip6.fr/), a joint research instute of [Sorbonne Université](https://sciences.sorbonne-universite.fr/) and [CNRS](https://www.cnrs.fr/).
+
+My main research is in the field of quantum information and quantum computation, in particular: quantum correlations, causality in quantum theory, higher-order quantum operations, Bell nonlocality, quantum steering, entanglement, measurement incompatibility, quantum discrimination tasks, and Semidefinite Programming.
 
 I use this space in GitHub mainly to host and share the computational code used I develop for my papers and my research. Please don’t hesitate in contacting me if you spot any sort of bug or if you want to discuss any particular code. =)
 
