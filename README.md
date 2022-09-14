@@ -1,6 +1,6 @@
 ### Bonjour !! 👋
 
-I’m Marco Túlio Quintino, Associate Professor (maître de conférences) in computer science at [Sorbonne Université](https://sciences.sorbonne-universite.fr/), Paris, France. I'm a member of the [Quantum Information](https://www.lip6.fr/recherche/team_membres.php?acronyme=QI) team at [LIP6](https://www.lip6.fr/), a joint research instute of [Sorbonne Université](https://sciences.sorbonne-universite.fr/) and [CNRS](https://www.cnrs.fr/).
+I’m Marco Túlio Quintino, Associate Professor (Maître de Conférences) in computer science at [Sorbonne Université](https://sciences.sorbonne-universite.fr/), Paris, France. I'm a member of the [Quantum Information](https://www.lip6.fr/recherche/team_membres.php?acronyme=QI) team at [LIP6](https://www.lip6.fr/), a joint research instute of [Sorbonne Université](https://sciences.sorbonne-universite.fr/) and [CNRS](https://www.cnrs.fr/).
 
 My main research is in the field of quantum information and quantum computation, in particular: quantum correlations, causality in quantum theory, higher-order quantum operations, Bell nonlocality, quantum steering, entanglement, measurement incompatibility, quantum discrimination tasks, and Semidefinite Programming.
 
