@@ -10,10 +10,4 @@ All my scientific papers are available on [arXiv](https://arxiv.org/a/quintino_m
 
 You can find more information about me and my research on my [personal website](https://mtcq.github.io/):
 
-- [Publications](https://mtcq.github.io/publications/)
-- [Learning resources](https://mtcq.github.io/resources/)
-- [Research group](https://mtcq.github.io/group/)
-- [Talks and slides](https://mtcq.github.io/talk/)
-- [CV](https://mtcq.github.io/CV/)
-
 Questions or comments about my work? Contact me at [Marco.Quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr) or [Marco.Quintino@sorbonne-universite.fr](mailto:Marco.Quintino@sorbonne-universite.fr).
