@@ -1,27 +1,19 @@
-### Bonjour !! 👋
+### Bonjour! 👋
 
-I’m Marco Túlio Quintino, Associate Professor (Maître de Conférences) in computer science at [Sorbonne Université](https://sciences.sorbonne-universite.fr/), Paris, France. I'm a member of the [Quantum Information](https://www.lip6.fr/recherche/team_membres.php?acronyme=QI) team at [LIP6](https://www.lip6.fr/), a joint research instute of [Sorbonne Université](https://sciences.sorbonne-universite.fr/) and [CNRS](https://www.cnrs.fr/).
+I’m Marco Túlio Quintino, an associate professor (maître de conférences [HDR]) in computer science at [Sorbonne University](https://sciences.sorbonne-universite.fr/) in Paris. I am a member of the [Quantum Information team](https://qi.lip6.fr/) at [LIP6](https://www.lip6.fr/), a joint research institute of Sorbonne University and [CNRS](https://www.cnrs.fr/). I also serve as co-head (responsable adjoint) of Sorbonne University’s [Master’s programme in Quantum Information](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-IQ).
 
-My main research is in the field of quantum information and quantum computation, in particular: quantum correlations, causality in quantum theory, higher-order quantum operations, Bell nonlocality, quantum steering, entanglement, measurement incompatibility, quantum discrimination tasks, and Semidefinite Programming.
+My research focuses on quantum information and quantum computing. In particular, I work on quantum correlations—including entanglement, Bell nonlocality, EPR steering, measurement incompatibility, and prepare-and-measure scenarios—quantum state and channel discrimination, higher-order quantum operations, causality in quantum theory, and semidefinite programming.
 
-I use this space in GitHub mainly to host and share the computational code used I develop for my papers and my research. Please don’t hesitate in contacting me if you spot any sort of bug or if you want to discuss any particular code. =)
+I use GitHub to share computational tools and code developed for my research. Bug reports, questions, and discussions about the code are always welcome.
 
-All my scientific papers are available at [arXiv](https://arxiv.org/a/quintino_m_1.html) and some statistics involving them can be found at my [Google Scholar](https://scholar.google.com/citations?user=9S-Jrs4AAAAJ&hl).
+All my scientific papers are available on [arXiv](https://arxiv.org/a/quintino_m_1.html), and citation statistics can be found on [Google Scholar](https://scholar.google.com/citations?user=9S-Jrs4AAAAJ).
 
-You can find more information about me and my research at my personal website: [https://mtcq.github.io](https://mtcq.github.io).
+You can find more information about me and my research on my [personal website](https://mtcq.github.io/):
 
+- [Publications](https://mtcq.github.io/publications/)
+- [Learning resources](https://mtcq.github.io/resources/)
+- [Research group](https://mtcq.github.io/group/)
+- [Talks and slides](https://mtcq.github.io/talk/)
+- [CV](https://mtcq.github.io/CV/)
 
-<!--
-**mtcq/mtcq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Questions or comments about my work? Contact me at [Marco.Quintino@lip6.fr](mailto:Marco.Quintino@lip6.fr) or [Marco.Quintino@sorbonne-universite.fr](mailto:Marco.Quintino@sorbonne-universite.fr).
